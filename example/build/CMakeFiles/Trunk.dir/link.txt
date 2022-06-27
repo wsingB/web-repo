@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Trunk.dir/main.cpp.o -o Trunk  -lpthread -loatpp 

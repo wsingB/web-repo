@@ -1,0 +1,3 @@
+/home/werbinich/repos/web-school/project/example/build/CMakeFiles/Trunk.dir
+/home/werbinich/repos/web-school/project/example/build/CMakeFiles/edit_cache.dir
+/home/werbinich/repos/web-school/project/example/build/CMakeFiles/rebuild_cache.dir
